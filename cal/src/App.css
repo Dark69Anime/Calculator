@@ -1,0 +1,22 @@
+.cal{
+  width: 320px;
+  margin: 120px auto;
+}
+#ans{
+  background-color: white;
+  font-size: 40px;
+  padding: 10px;
+  height: 45px;
+  width: 275px;
+  text-align: left;
+  border: 3px solid black;
+}
+.button{
+  background-color: black;
+  width: 75px;
+  height: 75px;
+  color: white;
+  font-size: 25px;
+  border: 2px solid black;
+  float: left;
+}
